@@ -1,0 +1,12 @@
+[2023-05-07 11:52:53,932] WARNING get_produto() L96   Erro ao buscar produto '2', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L96  
+[2023-05-07 11:53:17,877] WARNING get_produto() L96   Erro ao buscar produto '3', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L96  
+[2023-05-07 11:55:49,692] WARNING del_produto() L124  Erro ao deletar produto #'2', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L124 
+[2023-05-07 12:08:37,663] WARNING del_produto() L124  Erro ao deletar produto #'14', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L124 
+[2023-05-07 12:08:37,669] WARNING del_produto() L124  Erro ao deletar produto #'13', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L124 
+[2023-05-07 12:08:37,678] WARNING del_produto() L124  Erro ao deletar produto #'12', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L124 
+[2023-05-07 12:08:37,681] WARNING del_produto() L124  Erro ao deletar produto #'14', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L124 
+[2023-05-07 12:08:37,693] WARNING del_produto() L124  Erro ao deletar produto #'14', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L124 
+[2023-05-07 12:08:40,015] WARNING del_produto() L124  Erro ao deletar produto #'13', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L124 
+[2023-05-07 12:08:40,016] WARNING del_produto() L124  Erro ao deletar produto #'13', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L124 
+[2023-05-07 12:08:40,063] WARNING del_produto() L124  Erro ao deletar produto #'12', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L124 
+[2023-05-07 12:08:40,072] WARNING del_produto() L124  Erro ao deletar produto #'12', Produto não encontrado na base :/ - call_trace=C:\Users\Win10\Desktop\Projeto MVP Fernando\mvp-api\app.py L124 

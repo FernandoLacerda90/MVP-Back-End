@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "pydantic",
+        "sqlalchemy"
+    ],
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_pydantic"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,    
+    "python.linting.pylintPath": "${workspaceFolder}\\.venv\\Scripts\\pylint.exe"
+}
